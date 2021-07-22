@@ -130,3 +130,5 @@ dmypy.json
 
 #Dataset
 dataset/
+dataset_test.rec
+dataset_train.rec
